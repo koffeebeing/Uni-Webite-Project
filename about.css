@@ -1,0 +1,36 @@
+body{
+    background-image: url("uni.jpg");
+background-repeat: repeat-x;
+    background-size: cover;
+    background-attachment: scroll;
+
+    backface-visibility:var(36%) ;
+    color: black;
+}
+ h2{
+     color: rgb(248, 248, 247);
+     cursor: text;
+ }
+ p{
+     color: red;
+ }
+ p{ 
+     border: 5px solid rgb(194, 194, 175);
+ }
+ li{
+     list-style: none;
+     display: block ;
+     color: black;
+     
+ }
+ body{
+     background-color: rgb(123, 161, 145);
+     opacity: 0.9;
+ }
+ html{
+     background:url(uni.jpg) no-repeat center center fixed; 
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+ }
